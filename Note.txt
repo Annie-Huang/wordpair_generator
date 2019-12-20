@@ -3,6 +3,15 @@ https://github.com/bradtraversy/wordpair_generator
 https://github.com/Annie-Huang/wordpair_generator
 
 https://www.youtube.com/watch?v=K_kBzJN8pAY
+https://flutter.dev/
+https://flutter.dev/docs/get-started/install/windows
+https://developer.android.com/studio
 
 =============================================================
+
+C:\react\wordpair_generator>flutter doctor
+
+Annie@DESKTOP-BH46C1T MINGW64 /c/react
+$ flutter create wordpair_generator
+
 
