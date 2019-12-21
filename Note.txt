@@ -21,7 +21,7 @@ $ flutter create wordpair_generator
 
 C:\react\wordpair_generator>flutter devices
 
-Open an andriod emulator device and then
+!!! Open an andriod emulator device and then
 C:\react\wordpair_generator>flutter run
 
 
