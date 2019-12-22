@@ -15,9 +15,24 @@ class MyApp extends StatelessWidget {
 //          color: Colors.green[400]
 //        ))
         theme: ThemeData(primaryColor: Colors.purple[900]),
-        home: Scaffold(
-          appBar: AppBar(title: Text('WordPair Generator')),
-          body: Center (child: Text(wordPair.asPascalCase))
-        ));
+        home: RandomWords());
+//        home: Scaffold(
+//          appBar: AppBar(title: Text('WordPair Generator')),
+//          body: Center (child: Text(wordPair.asPascalCase))
+//        ));
+  }
+}
+
+class RandomWords extends StatefulWidget {
+  @override
+  RandomWordsState createState() => RandomWordsState();
+}
+
+class RandomWordsState extends State<RandomWords> {
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text('WordPair Generator')),
+        body: Text('Hello')
+    );
   }
 }
