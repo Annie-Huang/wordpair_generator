@@ -11,6 +11,8 @@ https://flutter.dev/docs/get-started/install/windows
 https://developer.android.com/studio
 https://flutter.dev/docs/get-started/test-drive?tab=terminal    << Need to follow this. Traversy one is through visual studios code.
 
+https://api.flutter.dev/flutter/material/MaterialApp-class.html
+https://api.flutter.dev/flutter/material/Scaffold-class.html
 
 =============================================================
 
@@ -24,4 +26,5 @@ C:\react\wordpair_generator>flutter devices
 !!! Open an andriod emulator device and then
 C:\react\wordpair_generator>flutter run
 
+Then in the terminal, press 'r'     << This is to keep reload the page.
 
