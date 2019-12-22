@@ -19,6 +19,9 @@ https://pub.dev/packages/english_words#-installing-tab-
 https://api.flutter.dev/flutter/widgets/ListView-class.html
 https://api.flutter.dev/flutter/widgets/Navigator-class.html
 
+https://flutter.dev/docs/deployment/ios
+https://flutter.dev/docs/deployment/android
+
 =============================================================
 
 C:\react\wordpair_generator>flutter doctor
