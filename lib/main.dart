@@ -32,6 +32,7 @@ class RandomWordsState extends State<RandomWords> {
   final _randomWordPairs = <WordPair>[];
 
   Widget _buildList() {
+    // If you scroll down, you can see it generate unlimited pairs. It just keep generating when you scrolling.
     return ListView.builder(
       padding: const EdgeInsets.all(16.0),
       itemBuilder: (context, item) {
@@ -49,7 +50,7 @@ class RandomWordsState extends State<RandomWords> {
   }
 
   Widget _buildRow(WordPair pair) {
-    return ListTile(title: Text('Hello'));
+    return ListTile(title: Text(pair.asPascalCase, style: TextStyle(fontSize: 18.0)));
   }
 
   Widget build(BuildContext context) {
