@@ -1,4 +1,4 @@
 .idea
 node_modules
-.dart_tool
+.dart_tool/flutter_build
 build

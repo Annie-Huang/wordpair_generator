@@ -56,6 +56,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "english_words",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/english_words-3.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "1.22"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///C:/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -176,7 +182,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2019-12-20T03:16:07.481407Z",
+  "generated": "2019-12-22T06:10:42.403394Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }

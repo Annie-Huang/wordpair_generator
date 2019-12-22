@@ -13,6 +13,9 @@ https://flutter.dev/docs/get-started/test-drive?tab=terminal    << Need to follo
 
 https://api.flutter.dev/flutter/material/MaterialApp-class.html
 https://api.flutter.dev/flutter/material/Scaffold-class.html
+https://pub.dev/
+https://pub.dev/packages/english_words
+https://pub.dev/packages/english_words#-installing-tab-
 
 =============================================================
 
@@ -28,3 +31,4 @@ C:\react\wordpair_generator>flutter run
 
 Then in the terminal, press 'r'     << This is to keep reload the page.
 
+C:\react\wordpair_generator>flutter pub get
